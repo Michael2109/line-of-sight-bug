@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Prefabs/Obstacles.meta
+    - Assets/Prefabs/Obstacles/Obstacle.cs
+    - Assets/Prefabs/Obstacles/Obstacle.cs.meta
+    - Assets/Prefabs/Person/Soldier/Soldier.cs
+    - Assets/Prefabs/Wall/Wall.prefab
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scripts/MIConvexHull.NET Standard.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/Constants.cs
+    - Assets/Scripts/MIConvexHull.NET Standard/Constants.cs.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHull.cs
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHull.cs.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHull.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHull/Collections.cs
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHull/Collections.cs.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHull/ConvexFace.cs
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHull/ConvexFace.cs.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHull/ConvexHullAlgorithm.2D.cs
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHull/ConvexHullAlgorithm.2D.cs.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHull/ConvexHullAlgorithm.Initialize.cs
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHull/ConvexHullAlgorithm.Initialize.cs.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHull/ConvexHullAlgorithm.MainLoop.cs
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHull/ConvexHullAlgorithm.MainLoop.cs.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHull/DataModel.cs
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHull/DataModel.cs.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHull/MathHelper.cs
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHull/MathHelper.cs.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHull/ObjectManager.cs
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHull/ObjectManager.cs.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHullCreationResultOutcome.cs
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHullCreationResultOutcome.cs.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHullGenerationException.cs
+    - Assets/Scripts/MIConvexHull.NET Standard/ConvexHullGenerationException.cs.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/IVertex.cs
+    - Assets/Scripts/MIConvexHull.NET Standard/IVertex.cs.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/Triangulation.cs
+    - Assets/Scripts/MIConvexHull.NET Standard/Triangulation.cs.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/Triangulation.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/Triangulation/DelaunayTrianglationInternal.cs
+    - Assets/Scripts/MIConvexHull.NET Standard/Triangulation/DelaunayTrianglationInternal.cs.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/Triangulation/DelaunayTriangulation.cs
+    - Assets/Scripts/MIConvexHull.NET Standard/Triangulation/DelaunayTriangulation.cs.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/Triangulation/TriangulationCell.cs
+    - Assets/Scripts/MIConvexHull.NET Standard/Triangulation/TriangulationCell.cs.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/Triangulation/VoronoiEdge.cs
+    - Assets/Scripts/MIConvexHull.NET Standard/Triangulation/VoronoiEdge.cs.meta
+    - Assets/Scripts/MIConvexHull.NET Standard/Triangulation/VoronoiMesh.cs
+    - Assets/Scripts/MIConvexHull.NET Standard/Triangulation/VoronoiMesh.cs.meta
+    - Assets/Scripts/Utilities/Triangulator.cs
+    - Assets/Scripts/Utilities/Triangulator.cs.meta
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
